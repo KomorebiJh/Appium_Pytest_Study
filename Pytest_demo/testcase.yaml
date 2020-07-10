@@ -1,0 +1,6 @@
+
+- id: home_search
+- id: search_input_text
+  input: pdd
+- id: current_price
+  get: text
